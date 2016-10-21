@@ -1,7 +1,4 @@
-
-##Download
-
-##Indroduction
+##Introduction
   
 This version is revised from [original one](https://github.com/AStepaniuk/qunit-parameterize)
 
@@ -19,4 +16,8 @@ QUnit
 
 Adding the definition file if needed
 
+``` js
+
 /// <reference path="qunit.parameterize.d.ts" />
+
+```
